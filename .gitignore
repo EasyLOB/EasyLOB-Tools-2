@@ -7,6 +7,9 @@ EasyLOB-Import/
 *Backup.rdl
 *.rdl.data
 
+# EasyLOB
+Help/Help/
+
 # User-specific files
 *.suo
 *.user
@@ -66,7 +69,7 @@ artifacts/
 *.tlh
 *.tmp
 *.tmp_proj
-*.log
+# *.log
 *.vspscc
 *.vssscc
 .builds
