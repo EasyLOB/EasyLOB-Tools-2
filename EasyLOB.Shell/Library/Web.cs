@@ -1,4 +1,4 @@
-﻿using EasyLOB.Library.Mvc;
+﻿using EasyLOB.Library.Web;
 using System;
 
 namespace EasyLOB.Shell
@@ -8,7 +8,7 @@ namespace EasyLOB.Shell
         private static void LibraryWebDemo()
         {
             Console.WriteLine("\nWeb Demo");
-            Console.WriteLine("\nIs Web ? " + (MvcHelper.IsWeb ? "YES" : "NO"));
+            Console.WriteLine("\nIs Web ? " + (WebHelper.IsWeb ? "YES" : "NO"));
             Console.WriteLine("Session Write");
             SessionWrite();
             Console.WriteLine("Session Read");
