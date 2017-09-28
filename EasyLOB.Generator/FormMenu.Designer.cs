@@ -146,7 +146,7 @@
             this.txtSolutionDirectory.ReadOnly = true;
             this.txtSolutionDirectory.Size = new System.Drawing.Size(398, 22);
             this.txtSolutionDirectory.TabIndex = 18;
-            this.txtSolutionDirectory.Text = "C:\\GitHub\\EasyLOB-2";
+            this.txtSolutionDirectory.Text = "C:\\Git\\EasyLOB-2";
             // 
             // btnTemplateDirectory
             // 
