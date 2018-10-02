@@ -1,4 +1,4 @@
-﻿using EasyLOB.Library.Web;
+﻿using EasyLOB.Library.AspNet;
 using System;
 
 namespace EasyLOB.Shell
