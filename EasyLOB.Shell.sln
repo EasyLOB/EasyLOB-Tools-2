@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{E3338864-4FD0-45AA-9FAF-BF16F2AF89D1}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLOB.Extensions.Ini", "..\EasyLOB-2\EasyLOB.Extensions\EasyLOB.Extensions.Ini\EasyLOB.Extensions.Ini.csproj", "{7A3B48CD-B1EF-494E-8692-6D8A26997F07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLOB.Library.AspNet", "..\EasyLOB-2\EasyLOB.Library\EasyLOB.Library.AspNet\EasyLOB.Library.AspNet.csproj", "{0FC5280D-8395-4689-AC53-0C053ACDE299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLOB.Library.App", "..\EasyLOB-2\EasyLOB.Library\EasyLOB.Library.App\EasyLOB.Library.App.csproj", "{C4761CD5-0AE1-41C0-9244-7975440AE9D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{0FC5280D-8395-4689-AC53-0C053ACDE299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FC5280D-8395-4689-AC53-0C053ACDE299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FC5280D-8395-4689-AC53-0C053ACDE299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4761CD5-0AE1-41C0-9244-7975440AE9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4761CD5-0AE1-41C0-9244-7975440AE9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4761CD5-0AE1-41C0-9244-7975440AE9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4761CD5-0AE1-41C0-9244-7975440AE9D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{6706907A-8932-46E7-A1C8-7575130FF8F7} = {3EBA7073-3686-4E0A-904B-04FD2075FEED}
 		{7A3B48CD-B1EF-494E-8692-6D8A26997F07} = {4625B128-3F28-4DAA-89FD-751669468EF6}
 		{0FC5280D-8395-4689-AC53-0C053ACDE299} = {16C39804-DFD3-4084-B418-0446C5BB7B75}
+		{C4761CD5-0AE1-41C0-9244-7975440AE9D1} = {16C39804-DFD3-4084-B418-0446C5BB7B75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF479DCD-076E-40AF-8932-7AC649B64042}

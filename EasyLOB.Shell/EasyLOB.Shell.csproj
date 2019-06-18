@@ -69,6 +69,10 @@
       <Project>{e876d7fb-2103-44d7-84d1-2db735423c9c}</Project>
       <Name>EasyLOB.Extensions.Edm</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\EasyLOB-2\EasyLOB.Library\EasyLOB.Library.App\EasyLOB.Library.App.csproj">
+      <Project>{c4761cd5-0ae1-41c0-9244-7975440ae9d1}</Project>
+      <Name>EasyLOB.Library.App</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\EasyLOB-2\EasyLOB.Library\EasyLOB.Library.AspNet\EasyLOB.Library.AspNet.csproj">
       <Project>{0fc5280d-8395-4689-ac53-0c053acde299}</Project>
       <Name>EasyLOB.Library.AspNet</Name>

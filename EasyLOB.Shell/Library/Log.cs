@@ -27,7 +27,7 @@ namespace EasyLOB.Shell
             //logManager.Log(LogLevel.Info, "Sample informational message with LogLevel");
             logManager.Trace("Sample trace message");
             logManager.Debug("Sample debug message");
-            logManager.Info("Sample informational message");
+            logManager.Information("Sample informational message");
             logManager.Warning("Sample warning message");
             logManager.Error("Sample error message");
             logManager.Fatal("Sample fatal error message");
@@ -35,7 +35,7 @@ namespace EasyLOB.Shell
             //logManager.Log(LogLevel.Info, "Sample informational message, d={0}, ym={1}", d, ym);
             logManager.Trace("Sample trace message, d={0}, ym={1}", d, ym);
             logManager.Debug("Sample debug message, d={0}, ym={1}", d, ym);
-            logManager.Info("Sample informational message, d={0}, ym={1}", d, ym);
+            logManager.Information("Sample informational message, d={0}, ym={1}", d, ym);
             logManager.Warning("Sample warning message, d={0}, ym={1}", d, ym);
             logManager.Error("Sample error message, d={0}, ym={1}", d, ym);
             logManager.Fatal("Sample fatal error message, d={0}, ym={1}", d, ym);
